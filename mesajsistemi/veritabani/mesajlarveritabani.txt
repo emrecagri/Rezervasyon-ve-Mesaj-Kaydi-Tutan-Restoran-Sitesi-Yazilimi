@@ -1,0 +1,47 @@
+<table cellpadding="4px" width="300" border="1">
+<tr>
+<td align="right"><b>Adı Soyadı:</b> </td>
+<td>  TestAd TestSoyad </td>
+</tr>
+<tr>
+<td align="right"><b>Mail Adresi:</b> </td>
+<td>  testmail@testmail.mail  </td>
+</tr>
+<tr>
+<td align="right"><b>Konu:</b> </td>
+<td>   Test Mesajı  </td>
+</tr>
+<tr>
+<td align="right" valign="top" ><b>Mesaj:</b> </td>
+<td>  Bu test mesajıdır.  </td>
+</tr>
+<tr>
+<td align="right" valign="top" ><b>Gönderim Zamanı:</b> </td>
+<td>  06/12/2020 - 21:16  </td>
+</tr>
+</table><br><br>
+------------------------------------------------
+<br><br><table cellpadding="4px" width="300" border="1">
+<tr>
+<td align="right"><b>Adı Soyadı:</b> </td>
+<td>  TestAd2 TestSoyad2 </td>
+</tr>
+<tr>
+<td align="right"><b>Mail Adresi:</b> </td>
+<td>  testmail2@testmail2.mail  </td>
+</tr>
+<tr>
+<td align="right"><b>Konu:</b> </td>
+<td>   2. Test Mesajı  </td>
+</tr>
+<tr>
+<td align="right" valign="top" ><b>Mesaj:</b> </td>
+<td>  Bu 2. test mesajıdır.  </td>
+</tr>
+<tr>
+<td align="right" valign="top" ><b>Gönderim Zamanı:</b> </td>
+<td>  06/12/2020 - 21:38  </td>
+</tr>
+</table><br><br>
+------------------------------------------------
+<br><br>

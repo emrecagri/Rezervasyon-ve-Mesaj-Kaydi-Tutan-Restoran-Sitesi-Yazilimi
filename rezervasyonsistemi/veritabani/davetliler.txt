@@ -1,0 +1,71 @@
+<table cellpadding="4px" width="300" border="1">
+<tr>
+<td align="right"><b>Adı Soyadı:</b> </td>
+<td>  TestAd TestSoyad </td>
+</tr>
+<tr>
+<td align="right"><b>Telefon Numarası:</b> </td>
+<td>  0000000000  </td>
+</tr>
+<tr>
+<td align="right"><b>Mail Adresi:</b> </td>
+<td>   testmail@testmail.mail  </td>
+</tr>
+<tr>
+<td align="right" valign="top" ><b>Misafir Sayısı:</b> </td>
+<td>  5  </td>
+</tr>
+<tr>
+<td align="right" valign="top" ><b>Rezervasyon Tarihi:</b> </td>
+<td>  2020-12-07T19:00  </td>
+</tr>
+<tr>
+<td align="right" valign="top" ><b>Rezervasyon Türü:</b> </td>
+<td>  Aksam_Yemegi  </td>
+</tr>
+<tr>
+<td align="right" valign="top" ><b>Kayıt Zamanı:</b> </td>
+<td>  06/12/2020 - 21:10  </td>
+</tr>
+<tr>
+<td align="right" valign="top" ><b>Rezervasyon Kodu:</b> </td>
+<td>  7AF0A924  </td>
+</tr>
+</table><br><br>
+--------------------------------------------------------
+<br><br><table cellpadding="4px" width="300" border="1">
+<tr>
+<td align="right"><b>Adı Soyadı:</b> </td>
+<td>  TestAd2 TestAd2 </td>
+</tr>
+<tr>
+<td align="right"><b>Telefon Numarası:</b> </td>
+<td>  0000000000  </td>
+</tr>
+<tr>
+<td align="right"><b>Mail Adresi:</b> </td>
+<td>   testmail2@testmail2.mail  </td>
+</tr>
+<tr>
+<td align="right" valign="top" ><b>Misafir Sayısı:</b> </td>
+<td>  6  </td>
+</tr>
+<tr>
+<td align="right" valign="top" ><b>Rezervasyon Tarihi:</b> </td>
+<td>  2020-12-09T20:30  </td>
+</tr>
+<tr>
+<td align="right" valign="top" ><b>Rezervasyon Türü:</b> </td>
+<td>  Dogum_Gunu  </td>
+</tr>
+<tr>
+<td align="right" valign="top" ><b>Kayıt Zamanı:</b> </td>
+<td>  06/12/2020 - 21:37  </td>
+</tr>
+<tr>
+<td align="right" valign="top" ><b>Rezervasyon Kodu:</b> </td>
+<td>  8B4E33EF  </td>
+</tr>
+</table><br><br>
+--------------------------------------------------------
+<br><br>
