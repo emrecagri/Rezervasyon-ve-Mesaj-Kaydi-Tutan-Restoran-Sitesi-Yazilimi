@@ -1,6 +1,8 @@
-# Rezervasyon ve Mesaj Kaydı Tutan Restoran Sitesi
+# Rezervasyon ve Mesaj Kaydı Tutan Restoran Sitesi Yazılımı
 
-PHP, JS, HTML ve CSS kullanarak yapıldı.
+<b>Kullanılan teknolojiler:</b> PHP, HTML, CSS, JAVASCRIPT
+
+<b>Özellikler:</b> Müşteri tarafından online rezervasyon oluşturma ve mesaj gönderme, Yönetici tarafından yönetim paneli ile rezervasyon ve mesajları görüntüleme, doğrulama, silme ve yazdırma.
 
 ---
 
